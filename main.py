@@ -11,4 +11,4 @@ fungsi = program(s)
 if fungsi == text:
   print ("sama / palindrome")
 else:
-  print ("Tidak palindrome")
+  print ("Not palindrome")
